@@ -1,0 +1,4 @@
+"deptname","numemployees","avgsalary","salarycategory"
+"Finance","2","62500.000000000000","High Avg"
+"IT","1","60000.000000000000","High Avg"
+"HR","1","50000.000000000000","Medium Avg"
